@@ -3,14 +3,18 @@
     <a href=#><img src="https://github.com/JuanDavidPena/MarvelAPI-challenge/blob/main/images/Logo%20Marvel.png" alt="marvel-logo" /></a></p>
   
   <p align="center">
-    <img align="center" src="https://avatars.githubusercontent.com/u/85180677?v=4" alt="Angela Vergara" height="120" width="120" />
-  <a href="https://www.linkedin.com/in/angela-vergara-salamanca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin angela" height="15" width="20" /></a>
-  <a href="https://github.com/anversa-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github angela" height="15" width="20" /></a>
+    <img align="center" src="https://avatars.githubusercontent.com/u/85180677?v=4" alt="Angela Vergara" height="50" width="50"/>
+  <a href="https://www.linkedin.com/in/angela-vergara-salamanca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin angela" height="30" width="40" /></a>
+  <a href="https://github.com/anversa-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github angela" height="30" width="40" /></a>
   &emsp;&emsp;&emsp;
-  <img align="center" src="https://avatars.githubusercontent.com/u/85373558?v=4" alt="Laura Callejas" />
-  <a href="https://www.linkedin.com/in/laura-callejas-beltran-16b710208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Twitter Laura" height="15" width="20" /></a>
-  <a href="https://github.com/jbocane6" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github Laura" height="10" width="20" /></a>
+  <img align="center" src="https://avatars.githubusercontent.com/u/85373558?v=4" alt="Laura Callejas" height="50" width="50"/>
+  <a href="https://github.com/laurajcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github Laura" height="30" width="40" /></a>
     </p>  
+  &emsp;&emsp;&emsp;
+  <img align="center" src="https://avatars.githubusercontent.com/u/70358968?v=4" alt="Mapu Medina" height="50" width="50"/>
+  <a href="https://www.linkedin.com/in/maria-paula-medina-portela-321853208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Mapu " height="30" width="40" /></a>
+  <a href="https://github.com/mapu456" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github Mapu" height="30" width="40" /></a>
+    </p> 
   <br>
   
  <p align="center">
