@@ -11,6 +11,7 @@
   <a href="https://github.com/laurajcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github Laura" height="30" width="40" /></a>
     </p>
   <br>
+  <p align="center">
    <img align="center" src="https://avatars.githubusercontent.com/u/70358968?v=4" alt="Mapu Medina" height="50" width="50"/>
   <a href="https://www.linkedin.com/in/maria-paula-medina-portela-321853208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Mapu " height="30" width="40" /></a>
   <a href="https://github.com/mapu456" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github Mapu" height="30" width="40" /></a>
